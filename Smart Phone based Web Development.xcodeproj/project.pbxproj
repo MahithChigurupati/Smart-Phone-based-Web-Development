@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2B3F7EF72AD9E6A2001C00AA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3F7EF62AD9E6A2001C00AA /* main.swift */; };
+		2B3F7EFE2AD9E8FD001C00AA /* Assignment 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3F7EFD2AD9E8FD001C00AA /* Assignment 3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		2B3F7EF32AD9E6A2001C00AA /* Smart Phone based Web Development */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Smart Phone based Web Development"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B3F7EF62AD9E6A2001C00AA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2B3F7EFD2AD9E8FD001C00AA /* Assignment 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Assignment 3.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				2B3F7EF62AD9E6A2001C00AA /* main.swift */,
+				2B3F7EFD2AD9E8FD001C00AA /* Assignment 3.swift */,
 			);
 			path = "Smart Phone based Web Development";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B3F7EF72AD9E6A2001C00AA /* main.swift in Sources */,
+				2B3F7EFE2AD9E8FD001C00AA /* Assignment 3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
